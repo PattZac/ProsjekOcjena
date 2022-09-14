@@ -1,0 +1,8 @@
+C:\Users\ucenik\source\repos\ProsjiekOcjena\ProsjiekOcjena\bin\Debug\ProsjiekOcjena.exe.config
+C:\Users\ucenik\source\repos\ProsjiekOcjena\ProsjiekOcjena\bin\Debug\ProsjiekOcjena.exe
+C:\Users\ucenik\source\repos\ProsjiekOcjena\ProsjiekOcjena\bin\Debug\ProsjiekOcjena.pdb
+C:\Users\ucenik\source\repos\ProsjiekOcjena\ProsjiekOcjena\obj\Debug\ProsjiekOcjena.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\ProsjiekOcjena\ProsjiekOcjena\obj\Debug\ProsjiekOcjena.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\ProsjiekOcjena\ProsjiekOcjena\obj\Debug\ProsjiekOcjena.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\ProsjiekOcjena\ProsjiekOcjena\obj\Debug\ProsjiekOcjena.exe
+C:\Users\ucenik\source\repos\ProsjiekOcjena\ProsjiekOcjena\obj\Debug\ProsjiekOcjena.pdb
